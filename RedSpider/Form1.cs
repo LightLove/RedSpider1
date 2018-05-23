@@ -19,7 +19,12 @@ namespace RedSpider
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("sssssss");
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
